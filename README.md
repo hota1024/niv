@@ -1,6 +1,18 @@
 niv
 ===
 
+# 🚀 Installation
+
+```bash
+npm install -g niv
+# or
+yarn global add niv
+```
+
+# 🐱 Demo
+
+![niv-demo](https://user-images.githubusercontent.com/24543982/89758815-a95cf000-db23-11ea-99d3-2317c54b93b0.gif)
+
 package.json script runner cli
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
@@ -9,10 +21,13 @@ package.json script runner cli
 [![License](https://img.shields.io/npm/l/niv.svg)](https://github.com/hota1024/niv/blob/master/package.json)
 
 <!-- toc -->
-* [Usage](#usage)
-* [Commands](#commands)
+- [niv](#niv)
+- [🚀 Installation](#-installation)
+- [🐱 Demo](#-demo)
+- [📝 Usage](#-usage)
+- [📦 Commands](#-commands)
 <!-- tocstop -->
-# Usage
+# 📝 Usage
 <!-- usage -->
 ```sh-session
 $ npm install -g niv
@@ -26,7 +41,7 @@ USAGE
 ...
 ```
 <!-- usagestop -->
-# Commands
+# 📦 Commands
 <!-- commands -->
 
 <!-- commandsstop -->
