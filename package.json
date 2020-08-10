@@ -1,7 +1,7 @@
 {
   "name": "niv",
   "description": "package.json script runner cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "hota1024 @hota1024",
   "bin": {
     "niv": "./bin/run"

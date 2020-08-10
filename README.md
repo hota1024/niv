@@ -19,7 +19,7 @@ $ npm install -g niv
 $ niv COMMAND
 running command...
 $ niv (-v|--version|version)
-niv/0.0.0 darwin-x64 node-v14.7.0
+niv/0.0.1 darwin-x64 node-v14.7.0
 $ niv --help [COMMAND]
 USAGE
   $ niv COMMAND
